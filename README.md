@@ -3,10 +3,9 @@
 </div>
 <h1 align="center" font-size=30px>Junior Developer</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
 :woman_technologist: About Me :
-I am a Junior Frontend Developer from Russia.
 
 - :telescope: Уже около года я занимаюсь веб-разработкой , за это время у меня получилось разработать несколько пет-проектов , которые вы можете увидеть у меня в репозиториях!.
 
