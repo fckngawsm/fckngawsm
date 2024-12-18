@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Фулл-стек разработчик! 👩‍💻🚀</h1>
+<h1 align="center">Привет, я Фулл-стек разработчик!🚀</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
