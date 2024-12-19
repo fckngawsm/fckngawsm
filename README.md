@@ -1,6 +1,6 @@
 # Hello, world!
 
-<img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gi](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3gxYmhucHMycjc1a2w3Zmp2eGs2eGNjbWlycG45cGtnNGRzYW1haiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp)f" width="400" height="300"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3gxYmhucHMycjc1a2w3Zmp2eGs2eGNjbWlycG45cGtnNGRzYW1haiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" width="400" height="300"/>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fckngawsm&layout=compact&hide_title=true&theme=radical)
